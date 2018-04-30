@@ -3,7 +3,7 @@ Anita's Resort, 30/4/2018
 #### By **Arnold Henry**
 ## Description
 This is website that shows Anita's food menu that are offered as part of her services.
-![Landing page photo](images/screenshotdesk.png)
+![Landing page photo](images/screenshotland.png)
 ## Setup/Installation Requirements
 No installation needed just click the link below to view my website online
 [My Portfolio](https://arnoldhenry.github.io/fastfood/)
