@@ -191,5 +191,19 @@ float: right;
   font-size: 15px;
 }
 .fb{
+  background: url("../footerlogos/facebook.png");
+  background-size: cover;
+  padding: 5px;
+}
+.tw{
   z-index: 99;
+  background: url("../footerlogos/facebook.png");
+  background-size: cover;
+  padding: 5px;
+}
+.pin{
+  z-index: 99;
+  background: url("../footerlogos/facebook.png");
+  background-size: cover;
+  padding: 5px;
 }
