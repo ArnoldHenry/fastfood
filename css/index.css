@@ -134,3 +134,9 @@ float: right;
 .wording{
   text-align: center;
 }
+.happycutomers{
+  border-right: 1px solid grey;
+}
+.all{
+  padding: 2%;
+}
