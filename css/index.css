@@ -1,5 +1,6 @@
 body{
   margin: 0;
+  color: #FFFFFF;
   padding: 0;
 }
 .jumbotron{
@@ -142,4 +143,31 @@ float: right;
 }
 .myword{
   text-align: center;
+}
+.mybg{
+  background: url("../backgrounds/subscribe.jpg");
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 20px;
+  font-family: serif;
+  padding: 5%;
+}
+.myemail{
+  padding: 7px;
+  text-align: left;
+  background-color:  #e6e6e6;
+  opacity: 0.4;
+  color: #FFFFFF;
+  font-family: sans-serif;
+  border-radius: 2px;
+  border: none;
+}
+.mybutton{
+  border-radius: 5px;
+  color: #FFFFFF;
+  background-color:#F15A29;
+  border: none;
+  padding: 7px;
+  width: 15%;
+  margin-left:3%;
 }
