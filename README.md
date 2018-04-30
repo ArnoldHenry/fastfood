@@ -6,7 +6,7 @@ This is website that shows Anita's food menu that are offered as part of her ser
 ![Landing page photo](images/screenshotland.png)
 ## Setup/Installation Requirements
 No installation needed just click the link below to view my website online
-[My Portfolio](https://arnoldhenry.github.io/fastfood/)
+[Anita's Resort](https://arnoldhenry.github.io/fastfood/)
 ## Known Bugs
 No bugs
 ## Technologies Used
