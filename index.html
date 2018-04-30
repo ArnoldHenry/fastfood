@@ -7,8 +7,62 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
       <link rel="stylesheet" href="bootstrap/bootstrap3.css" type="text/css">
       <script src="js/jquery-3.3.1.min.js"></script>
+      <script src="js/jquery-3.3.1.min.js"></script>
+      <script src="js/bootstrap337.min.js"></script>
+      <script src="js/fa-v4-shims.js"></script>
+      <script src="js/fontawesome-all.js"></script>
     </head>
     <body>
+
+          <style>
+          a,a:hover{
+            color: #FFFFFF;
+            text-decoration: none;
+            padding: 0;
+            margin: 0;
+          }
+          	.navbar{
+              z-index: 100;
+          		border-radius: 0;
+          		margin-bottom: 2%;
+          		transition:background-color 1000ms linear;
+          		padding:0;
+              margin: 0;
+              top: 0;
+              font-size: 18px;
+          		border: 0;
+              box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+          	}
+          	.navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus,
+          	.navbar-inverse .navbar-nav .active a:hover{
+          		color:#FFFFFF;
+          		background-color:transparent;
+
+          	}
+          	</style>
+      <!--Navigation Bar	-->
+        <nav class="navbar navbar-inverse" data-spy="affix" data-offset-top="15">
+          <div class="container-fluid">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+            </div>
+
+            <div class="collapse navbar-collapse" id="myNavbar">
+
+              <ul class="nav navbar-nav navbar-right">
+                <li class="active"><a href="#">Contacts</a></li>
+                <li class="active"><a href="#">Events</a></li>
+                <li class="active"><a href="#">Menu</a></li>
+
+          </div>
+        </nav>
+
+      <!--	End Nav Bar-->
+    </div>
       <div class="container-fluid">
         <div class="jumbotron nopadding">
               <img  src="logoBig.png"  alt=""/>
