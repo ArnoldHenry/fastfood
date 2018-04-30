@@ -7,7 +7,8 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
-
+  margin: 0;
+  padding: 0;
 }
 .happy{
   background-color: #FFFFFF;
@@ -43,7 +44,7 @@ body{
 .breakfast{
   background:url("../foodtop/breakfast.jpg");
   background-size: cover;
-  padding: 19%;
+  padding: 17%;
   text-align: center;
   margin: 0;
 
@@ -51,13 +52,13 @@ body{
 .lunch{
   background:url("../foodtop/lunch.jpg");
   background-size: cover;
-  padding: 19%;
+  padding: 17%;
   text-align: center;
 }
 .dinner{
   background:url("../foodtop/dinner2.jpg");
   background-size: cover;
-  padding: 19%;
+  padding: 17%;
   text-align: center;
 }
 .no-gutter > [class*='col-'] {
@@ -68,9 +69,23 @@ body{
       margin-top: -1%;
 }
 .delicious{
-  text-align: right;
+  text-align: left;
 }
-.boxshadow{
-  padding: 2%;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+.pic{
+float: left;
+}
+.drinks{
+text-align: right;
+width: 60%;
+margin: 0;
+padding: 0;
+float: right;
+}
+.panel-default{
+  padding: 10%;
+  width: 500px;
+  align-content: center;
+}
+.container{
+  margin:auto;
 }
