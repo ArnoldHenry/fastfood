@@ -232,3 +232,25 @@ float: right;
 .later{
   color: #FFFFFF;
 }
+.gallery{
+  background-color: #FFFFFF;
+  border: 1px solid #F15A29;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  text-align: center;
+  border-radius: 4px;
+  color:#F15A29;
+}
+.arr{
+  color:#F15A29;
+}
+.customer{
+  text-align: center;
+  color: #F15A29;
+  font-size: 15px;
+  font-weight: bold;
+  padding-left: 3%;
+  padding-right: 3%;
+}
