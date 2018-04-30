@@ -7,8 +7,6 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
-  margin: 0;
-  padding: 0;
 }
 .happy{
   background-color: #FFFFFF;
@@ -17,6 +15,7 @@ body{
   font-size: 20px;
   padding-top: 5%;
   padding-bottom: 5%;
+  cursor: pointer;
 }
 .party{
     background-color: #F15A29;
@@ -26,6 +25,7 @@ body{
     color: #FFFFFF;
     padding-top: 5%;
     padding-bottom: 5%;
+    cursor: pointer;
 }
 .nopadding {
    padding: 0 !important;
@@ -36,7 +36,7 @@ body{
   font-family:serif;
   font-size: 50px;
   padding: 5%;
-
+cursor: pointer;
 }
 .rightplace{
   color: #FFFFFF;
@@ -47,19 +47,21 @@ body{
   padding: 17%;
   text-align: center;
   margin: 0;
-
+cursor: pointer;
 }
 .lunch{
   background:url("../foodtop/lunch.jpg");
   background-size: cover;
   padding: 17%;
   text-align: center;
+  cursor: pointer;
 }
 .dinner{
   background:url("../foodtop/dinner2.jpg");
   background-size: cover;
   padding: 17%;
   text-align: center;
+  cursor: pointer;
 }
 .no-gutter > [class*='col-'] {
       padding-right:0;
@@ -70,9 +72,12 @@ body{
 }
 .delicious{
   text-align: left;
+  float: left;
+  width: 60%;
 }
-.pic{
-float: left;
+.mypic{
+float: right;
+margin-left: 25%;
 }
 .drinks{
 text-align: right;
@@ -88,4 +93,21 @@ float: right;
 }
 .container{
   margin:auto;
+}
+.bg{
+  background: url("../backgrounds/foodsBg.jpg");
+  padding: 5%;
+}
+.fastwhite{
+  background-color: #FFFFFF;
+  color: #F15A29;
+  padding: 1%;
+  text-align: center;
+}
+.drinkgrey{
+  background-color: #ebebe0;
+  color: #000000;
+  padding: 1%;
+  text-align: center;
+  border-left: 1px solid #bfbfbf;
 }
