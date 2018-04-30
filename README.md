@@ -1,0 +1,20 @@
+# Blog website
+Anita's Resort, 30/4/2018
+#### By **Arnold Henry**
+## Description
+This is website that shows Anita's food menu that are offered as part of her services.
+![Landing page photo](images/screenshotdesk.png)
+## Setup/Installation Requirements
+No installation needed just click the link below to view my website online
+[My Portfolio](https://arnoldhenry.github.io/fastfood/)
+## Known Bugs
+No bugs
+## Technologies Used
+**Language used;**
+* html
+* CSS
+* bootstrap
+* jquery
+## Support and contact details
+Comment if any issues arise
+Copyright (c) {2018} **Arnold Henry**
