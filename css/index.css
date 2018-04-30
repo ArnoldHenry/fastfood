@@ -13,7 +13,7 @@ body{
   background-color: #FFFFFF;
   text-align: center;
   font-family:serif;
-  font-size: 20px;
+  font-size: 26px;
   padding-top: 5%;
   padding-bottom: 5%;
   cursor: pointer;
@@ -22,7 +22,7 @@ body{
     background-color: #F15A29;
     text-align: center;
     font-family:serif;
-    font-size: 20px;
+    font-size: 25px;
     color: #FFFFFF;
     padding-top: 5%;
     padding-bottom: 5%;
@@ -48,7 +48,14 @@ cursor: pointer;
   padding: 17%;
   text-align: center;
   margin: 0;
-cursor: pointer;
+  cursor: pointer;
+  color: #FFFFFF;
+  font-size: 25px;
+}
+.breakfast:hover{
+  color: #000000;
+  background-color: #FFFFFF;
+  opacity: 0.4;
 }
 .lunch{
   background:url("../foodtop/lunch.jpg");
@@ -56,6 +63,13 @@ cursor: pointer;
   padding: 17%;
   text-align: center;
   cursor: pointer;
+  color: #FFFFFF;
+  font-size: 25px;
+}
+.lunch:hover{
+  color: #000000;
+  background-color: #FFFFFF;
+  opacity: 0.4;
 }
 .dinner{
   background:url("../foodtop/dinner2.jpg");
@@ -63,6 +77,12 @@ cursor: pointer;
   padding: 17%;
   text-align: center;
   cursor: pointer;
+  color: #FFFFFF;
+  font-size: 25px;
+}
+.dinner:hover{
+  color: #FFFFFF;
+  opacity: 0.9;
 }
 .no-gutter > [class*='col-'] {
       padding-right:0;
