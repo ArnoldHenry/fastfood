@@ -123,3 +123,14 @@ float: right;
   border-radius: 4px;
   font-size: 20px;
 }
+.our{
+   color:red;
+   text-align:center;
+}
+.geo{
+  font-weight: bold;
+  text-align: center;
+}
+.wording{
+  text-align: center;
+}
