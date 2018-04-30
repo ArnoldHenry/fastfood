@@ -190,3 +190,6 @@ float: right;
   padding: 1%;
   font-size: 15px;
 }
+.fb{
+  z-index: 99;
+}
